@@ -1,0 +1,17 @@
+body {
+    margin:0; 
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+}
+
+h1 {
+    text-align: center; 
+}
+
+.form-wrap {
+    text-align:center;
+}
+
+form {
+    padding: 5px;
+    margin-bottom: 10px;
+}
